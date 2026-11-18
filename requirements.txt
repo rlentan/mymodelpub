@@ -2,3 +2,5 @@ streamlit
 tensorflow
 tensorflow_hub
 tensorflow_text
+numpy
+requests
